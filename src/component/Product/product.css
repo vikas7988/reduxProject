@@ -1,0 +1,38 @@
+.firstDiv {
+  background-color: rgba(0, 0, 0, 0.728);
+  color: white;
+  padding: 15px;
+  margin: auto;
+  width: 60%;
+  margin-top: 2px;
+  border: 2px solid black;
+  box-shadow: 0px 0px 8px black;
+  height: 60px;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  font-size: 16px;
+}
+a {
+  cursor: pointer;
+  padding: 0px 50px;
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: red;
+  font-size: 15px;
+}
+
+/* secondDIv */
+
+.secondDiv {
+  margin: auto;
+  margin-top: 10px;
+  border: 2px solid black;
+  box-shadow: 0px 0px 10px black;
+  width: 90%;
+  padding: 25px;
+}
